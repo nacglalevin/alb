@@ -1,3 +1,11 @@
+"""
+========================================
+Name:AlB Author: Lalevin Martin
+ Mailbox: zzlyxht@outlook.com                                                
+ Github: http://github.com/nacglalevin
+Written in 2024-5-29
+==================NACG==================
+"""
 from gevent import monkey
 from gevent.pool import Pool
 monkey.patch_all()
